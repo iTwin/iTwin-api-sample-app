@@ -10,8 +10,7 @@ namespace iTwinSampleApp
     internal class EndpointManager
         {
         private static readonly HttpClient client = new();
-        //private const string API_BASE_URL = "https://api.bentley.com";
-        private const string API_BASE_URL = "https://dev-api.bentley.com";
+        private const string API_BASE_URL = "https://api.bentley.com";
 
         #region Constructors
         internal EndpointManager(string token)
