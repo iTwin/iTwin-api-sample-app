@@ -10,7 +10,7 @@ This application contains sample code that should not be used in a production en
 ## Prerequisites
 
 * [Git](https://git-scm.com/)
-* Visual Studio 2019 or [Visual Studio Code](https://code.visualstudio.com/)
+* Visual Studio 2019/2022 or [Visual Studio Code](https://code.visualstudio.com/)
 * [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/)
 
 
