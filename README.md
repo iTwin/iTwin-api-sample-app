@@ -14,7 +14,7 @@ This application contains sample code that should not be used in a production en
 * [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/)
 
 
-## Development Setup (Visual Studio 2019)
+## Development Setup (Visual Studio 2019 or Visual Studio 2022)
 
 1. Clone Repository
 
