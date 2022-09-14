@@ -26,7 +26,7 @@ This application contains sample code that should not be used in a production en
 
 5. It will require a user token. 
 
-   * Go to the iTwin API [developer portal](https://dev-developer.bentley.com/apis/itwins/operations/create-itwin/)
+   * Go to the iTwin API [developer portal](https://developer.bentley.com/apis/itwins/operations/create-itwin/)
    * Click the TryIt Button
    * In the popup window, select authorizationCode in the Bentley OAuth2 Service dropdown
    * This will popup another window that will require you to login.
