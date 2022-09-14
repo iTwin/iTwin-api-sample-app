@@ -1,4 +1,9 @@
-﻿using iTwinSampleApp.Models;
+﻿/*---------------------------------------------------------------------------------------------
+* Copyright (c) Bentley Systems, Incorporated. All rights reserved.
+* See LICENSE.md in the project root for license terms and full copyright notice.
+*--------------------------------------------------------------------------------------------*/
+
+using iTwinSampleApp.Models;
 using Newtonsoft.Json.Linq;
 using System.Net;
 using System.Text;

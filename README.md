@@ -11,7 +11,7 @@ This application contains sample code that should not be used in a production en
 
 * [Git](https://git-scm.com/)
 * Visual Studio 2019/2022 or [Visual Studio Code](https://code.visualstudio.com/)
-* [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/)
+* [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0/)
 
 
 ## Development Setup (Visual Studio 2019 or Visual Studio 2022)
@@ -26,7 +26,7 @@ This application contains sample code that should not be used in a production en
 
 5. It will require a user token. 
 
-   * Go to the iTwin API [developer portal](https://dev-developer.bentley.com/apis/itwins/operations/create-iTwin/)
+   * Go to the iTwin API [developer portal](https://dev-developer.bentley.com/apis/itwins/operations/create-itwin/)
    * Click the TryIt Button
    * In the popup window, select authorizationCode in the Bentley OAuth2 Service dropdown
    * This will popup another window that will require you to login.
@@ -34,3 +34,9 @@ This application contains sample code that should not be used in a production en
    * Press Enter
 
 6. You can now step through the code that will create and manage an iTwin.
+
+## Contributing to this Repository
+
+For information on how to contribute to this project, please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines, [GETTINGSTARTED.md](GETTINGSTARTED.md) for information on working with the documentation in this repository.
+
+In the future, [HELPWANTED.md](HELPWANTED.md) may contain a list of contributions we would like to see to this project.

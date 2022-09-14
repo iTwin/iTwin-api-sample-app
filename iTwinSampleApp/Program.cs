@@ -1,4 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*---------------------------------------------------------------------------------------------
+* Copyright (c) Bentley Systems, Incorporated. All rights reserved.
+* See LICENSE.md in the project root for license terms and full copyright notice.
+*--------------------------------------------------------------------------------------------*/
+
+// See https://aka.ms/new-console-template for more information
 using iTwinSampleApp;
 
 Console.ForegroundColor = ConsoleColor.White;
