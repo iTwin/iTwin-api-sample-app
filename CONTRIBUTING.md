@@ -1,19 +1,36 @@
-# Contributing to iTwin-api-sample-app
+# Contributing
 
-## Reporting Issues
+We welcome all types of contributions.
 
-If you have any feature requests or noticed potential issues please use the [Issues](https://github.com/iTwin/iTwin-api-sample-app/issues) page for reporting new issues or adding to existing ones.
+Found a bug? Please create an [issue](https://github.com/iTwin/iTwin-api-sample-app/issues).
 
-## Contributions
+Want to contribute by creating a pull request? Great! [Fork this repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) to get started.
 
-### Contributor License Agreement (CLA)
+---
 
-A [Contribution License Agreement with Bentley](https://github.com/iTwin/iTwin-api-sample-app/Agreement.md) must be signed before your contributions will be accepted. Upon opening a pull request, you will be prompted to use [cla-assistant](https://cla-assistant.io/) for a one-time acceptance applicable for all Bentley projects.
+## How to setup
+
+### .NET 6.0 C# Sample Application
+
+You need to have Visual Studio 2022 or Visual Code with MSBuil 17.
+
+1. Build the application and then run.
+2. The sample app will run through the APIM iTwins CRUD operations.
+
+---
+
+## Pull Requests
+
+Before creating a pull request, make sure your changes address a specific issue. Do a search to see if there are any existing issues that are still open. If you don't find one, you can create one.
+
+To enable us to quickly review and accept your pull requests, always create one pull request per issue. Never merge multiple requests in one unless they have the same root cause. Be sure to follow best practices and keep code changes as small as possible. Avoid pure formatting changes or random "fixes" that are unrelated to the linked issue.
+
+---
+
+## Contributor License Agreement (CLA)
+
+You will be asked to sign a Contribution License Agreement with Bentley before your contributions will be accepted.
+This a one-time requirement for Bentley projects in GitHub.
 You can read more about [Contributor License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
 
-### Pull Requests
-
-All submissions go through a review process.
-We use GitHub pull requests for this purpose.
-All pull requests must be approved by at least one person and must pass build checks before they can be merged to the `main` branch.
-Consult [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more information on using pull requests.
+> Note: a CLA is not required if the change is trivial (such as fixing a spelling error or a typo).
